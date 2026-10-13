@@ -3,11 +3,14 @@ A simple frontend Point of Sale (POS) system built with HTML, Tailwind CSS, and 
 
  Coffee - POS System
 
-Student Information
+## Student Information
 Dela Cruz, Francis Jay
 INF 248
+
+## Website Category
 Point of Sale (POS) / Web-based Business Application
 
+## Project Description
 Coffee Everyday is a web-based Point of Sale (POS) system for our Integrative Programming subject. It helps manage simple daily coffee shop operations like taking customer orders, applying discounts (Senior, PWD, and Student), tracking active order status in the kitchen, and generating receipts or daily sales reports. 
 
 ## Main Features
