@@ -4,8 +4,8 @@ A simple frontend Point of Sale (POS) system built with HTML, Tailwind CSS, and 
  Coffee - POS System
 
 ## Student Information
-*Dela Cruz, Francis Jay
-*INF 248
+* Dela Cruz, Francis Jay
+* INF 248
 
 ## Website Category
 Point of Sale (POS) / Web-based Business Application
