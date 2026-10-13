@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.font-serif {
+  font-family: "Playfair Display", serif;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #faf7f2;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c4b5a5;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a0826d;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+
+  #receipt-modal,
+  #receipt-modal * {
+    visibility: visible;
+  }
+
+  #receipt-modal {
+    position: absolute;
+    inset: 0;
+    background: white;
+  }
+}

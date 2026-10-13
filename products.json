@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "name": "Spanish Latte",
+    "description": "16oz Signature recipe",
+    "image": "https://images.unsplash.com/photo-1559001724-fbad036dbc9e?auto=format&fit=crop&w=600&q=80",
+    "prices": { "iced": 155, "hot": 140 },
+    "category": "Coffee",
+    "variants": ["iced", "hot"],
+    "defaultVariant": "iced",
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Dirty Matcha",
+    "description": "16oz Uji matcha base shot",
+    "image": "https://images.unsplash.com/photo-1515823064-d6e0c04616a7?auto=format&fit=crop&w=600&q=80",
+    "prices": { "none": 140 },
+    "category": "Coffee",
+    "defaultVariant": "none",
+    "available": true
+  },
+  {
+    "id": "3",
+    "name": "Caramel Macchiato",
+    "description": "Creamy caramel espresso",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=600&q=80",
+    "prices": { "iced": 165, "hot": 150 },
+    "category": "Coffee",
+    "variants": ["iced", "hot"],
+    "defaultVariant": "iced",
+    "available": true
+  },
+  {
+    "id": "4",
+    "name": "Nutella Croffle",
+    "description": "Chocolate hazelnut topping",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80",
+    "prices": { "none": 125 },
+    "category": "Croffles",
+    "defaultVariant": "none",
+    "available": true
+  },
+  {
+    "id": "5",
+    "name": "Blueberry Cheesecake",
+    "description": "Creamy blueberry delight",
+    "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=600&q=80",
+    "prices": { "none": 180 },
+    "category": "Cakes",
+    "defaultVariant": "none",
+    "available": true
+  }
+]
